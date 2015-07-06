@@ -7,4 +7,4 @@ Quite useful for showing tabular data inside table cells.
 
 Screenshot
 ----------------------
-![Screenshot](https://raw2.github.com/neeks/ios-labels-matrix-view/master/preview.png)
+![Screenshot](https://raw.githubusercontent.com/neeks/ios-labels-matrix-view/master/preview.png)
